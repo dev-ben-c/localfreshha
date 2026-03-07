@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/rabidclock/localfreshha/haclient"
+	"github.com/dev-ben-c/localfreshha/haclient"
 )
 
 // ToolCall represents an LLM's request to invoke a tool.
