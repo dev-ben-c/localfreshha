@@ -1,0 +1,16 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "LocalFresh Conversation",
+        "data": {
+          "name": "Name",
+          "url": "LocalFresh URL",
+          "token": "Device Token",
+          "model": "Model (optional)",
+          "system_prompt": "System Prompt (optional)"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "domain": "localfresh",
+  "name": "LocalFresh Conversation",
+  "version": "1.0.0",
+  "documentation": "https://github.com/dev-ben-c/localfreshllm",
+  "dependencies": ["conversation"],
+  "codeowners": [],
+  "config_flow": true,
+  "iot_class": "local_polling"
+}
